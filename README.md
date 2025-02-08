@@ -1,8 +1,6 @@
 # Stock-Price-Prediction---Time-Series-Model
 Stock Price Prediction - Time Series Model forecasting techniques using Statsmodel Autoregressive Integrated Moving Average (ARIMA)
 
-# Stock Price Prediction - Time Series Model
-
 ![Stock Price](https://i.postimg.cc/rscKQdHm/Black-and-White-Modern-Stock-Market-Presentation.jpg)
 
 ## Objective
